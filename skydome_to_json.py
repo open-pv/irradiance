@@ -84,5 +84,5 @@ def process_csv_files(directory):
 # Example usage
 if __name__ == "__main__":
     # Use the current directory or specify your data directory
-    data_directory = "aggregated_results_claude_poa_comparison_processed/"
+    data_directory = "../aggregated_results_claude_poa_comparison_processed/"
     process_csv_files(data_directory)
